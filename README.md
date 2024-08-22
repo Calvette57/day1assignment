@@ -248,4 +248,4 @@ Type of Cat: A grey cat.
 Pose/Action: The cat is sitting.
 Location: On a window.
 Scene Description: The cat is looking out at a sunny garden with colorful flowers.
-This clarity helps ensure that the artist or AI has a precise understanding of the request, reducing the chances of misinterpretation and leading to a result that closely matches the user’s exp
+This clarity helps ensure that the artist or AI has a precise understanding of the request, reducing the chances of misinterpretation and leading to a result that closely matches the user’s expectations.
